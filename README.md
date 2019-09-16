@@ -1,29 +1,29 @@
-# User Manual For Gidi Morris
+# User Manual For Stephen Geller
+
+Inspired by [this repo by Gidi Morris](https://github.com/gmmorris/user_manual_for_me) and [this article by Cassie Robinson](https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694).
 
 A User Manual for working with me.
 
 ## Conditions I like to work in
 
-I work most effectively when I have some form of white noise.
-Buzzing well-lit offices or coffee shops suit me well, while quiet dark rooms actually make it harder for me to slip into deep work.
+I work best in environments where I am surrounded by the behaviour I'd like to replicate. 
+I am a copycat and a chameleon, and get good work done when surrounded by people doing the same.
 
-For this reason I usually work from the Elastic London office.
+Unfortunately, I am also both easily distracted and frustrated when taken away from my work when I'm engaged in it, so if I look like I'm super-focused it's probably best to message me first if possible. 
+
+Pro tip: If I have my headphones on and look like I'm enjoying my music, it means I'm really engaged with my work!
 
 ## The times/hours I like to work
 
-I'm a morning person and aim to be begin working some time between 7:00 and 7:30, whether from home or from my preferred location outside of home.
+I'm learning to be more of a morning person, but for now I aim to arrive at the office (by bike or tube) between 9:15am and 10am and leave between 5:15pm and 6pm.
 
-I'm often active in the evenings, so usually call it a day by 17:00-18:00.
+I aim to have lunch at 12:30pm on the dot, but will actually have it somewhere between 12pm and 1pm.
 
 ## The best ways to communicate with me
 
-_Slack_ is the quickest way to get a response from me.
-Please don't hesitate to reach out at any time, as I'll put the phone on silent if I'm busy, and am always happy to help a colleague out of hours. I find the idea of you being blocked on something that I could be helping with more disturbing than the idea of being asked for thing out of hours.
-
-I don't like answering my phone, as I'm often in spaces which are either too noisy for that or so quiet that my conversation would be _forced_ on those around me.
-I do read texts though, so SMS or WhatsApp are cool.
-
-I stay on top of my emails daily, so for anything non-urgent, feel confident that your email will get a reply within a workday or so.
+If I'm stuck into work, I always appreciate you messaging me on the communication platform tool of choice (Slack, GChat) before approaching me if it's a non-urgent request. 
+It allows me to handle interactions at my own pace, since I can sometimes get quickly exhausted by social interaction overload. 
+That being said, if I've forgotten that we have a meeting or I promised to help or do something, please grab me!
 
 ## The ways I like to receive feedback
 
@@ -46,13 +46,18 @@ This is predominantly because I like to know that I'm solving the _right_ proble
 
 ## Things I struggle with
 
+I have real issues with my memory, and can be embarrassed when I forget things that I've said, learnt or done. 
+So if I forget your name, a concept you absolutely nailed an explanation of to me moments before or a piece of information I was meant to remember, I'm really sorry.
+I'm working on it, but the positive side is that once something is in my head, it's there for a very long time and hard to get rid of!
+
+With that in mind, I struggle with my focus. Since I get worried I'll forget tasks when they pop into my head, I'll try to immediately complete them when I think of them. 
+The cost of this is often switching between tasks at a lightning-pace, which can be very frustrating for those working with me. Something I do this in meetings, other times when pairing.
+If you see me doing this, please feel free and comfortable to call me out on it, even by simply saying "Stephen, you're doing the thing again." 
+I'm not always great at seeing the impact it has on others, and will appreciate you giving me a heads up. 
+
 I'm an introvert, and need time to recharge between conversations, but I'm also a social creature, and find it hard to go through full days without having some kind of collaborative interaction with colleagues.
 
 If I don't understand the wider purpose behind why we are doing something, I find it hard to engage with it.
-
-I dislike Gatekeeping, and will always prefer to incur some discomfort by letting it through the gate, whenever it is something that can be addressed at a later point. This is true for hiring (They seem like a positive fit but lack something that we need? Lets bring them in and empower them to fill the gaps) and is equally true for the ways in which we work (How often have you heard the phrase "That's how we've always done it"? Lets try new ideas and iterate on them instead of just saying "No!").
-
-Organising team social things. I really struggle at this, please don't ask me to organise anything like that.
 
 ## Things I love
 
@@ -64,4 +69,3 @@ I love teaching, mentor individuals outside of the workplace, and am always open
 
 ## Other things to know about me
 
-I bring my whole self to work, always, and am extremely uncomfortable when I can't do so.
