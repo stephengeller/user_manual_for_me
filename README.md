@@ -1,8 +1,9 @@
 # User Manual For Stephen Geller
 
-Inspired by [this repo by Gidi Morris](https://github.com/gmmorris/user_manual_for_me) and [this article by Cassie Robinson](https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694).
+###### Inspired by [this repo by Gidi Morris](https://github.com/gmmorris/user_manual_for_me) and [this article by Cassie Robinson](https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694).
 
-Hi! I'm Stephen. Here is a User Manual for working with me.
+### Hi!
+#### I'm Stephen. Here is a user Manual for working with me.
 
 ## Conditions I like to work in
 
