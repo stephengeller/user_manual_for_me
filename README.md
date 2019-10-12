@@ -3,7 +3,7 @@
 ###### Inspired by [this repo by Gidi Morris](https://github.com/gmmorris/user_manual_for_me) and [this article by Cassie Robinson](https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694).
 
 ### Hi!
-#### I'm Stephen. Here is a user Manual for working with me.
+#### I'm Stephen. Here is a user manual for working with me.
 
 ## Conditions I like to work in
 
@@ -65,10 +65,16 @@ I love getting stuff done. I like to build quickly and get something working, th
 
 When confident enough with a domain, I love sharing knowledge. I enjoy hosting learning sessions, and have a few techniques to make learning more interactive and fun for the participants.
 
+## How I respond to stress
+
+When I get stressed, I go a bit inwards. This takes the form of me going quiet, and shortening my responses.
+
+
+
 ## Other things to know about me
 
 I'm from Montreal, Canada, and have lived in Surrey, Bristol, Sheffield and London since moving to the UK the age of 11. Despite having spent longer in the UK than Canada, I am still a very passionate Canuck with a fairly strong accent.
 
-I'll talk your ear off about video games, music technology and _some_ sports. I like to keep active, and have recently become hooked on bouldering. I'm always looking for people to join in, and try and go at least twice a week.
+I'll talk your ear off about video games, music technology and _some_ sports. I like to keep active, and have recently become hooked on bouldering...I'm always looking for people to join in, and try and go at least twice a week.
 
-TBC: Despite best efforts to appear extroverted, I am an introvert at heart, and can be overwhelmed or exhausted by social interaction overload.
+Despite best efforts to appear extroverted, I am an introvert at heart, and can be overwhelmed or exhausted by social interaction overload.
