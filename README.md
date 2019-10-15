@@ -36,16 +36,16 @@ When pairing, I may sometimes ask for something to receive feedback on by the en
 I need time to wake up in the morning. I've noticed that I get better work done (and am nicer to work with!) when I have some time to look over emails, get some personal admin done and adjust to starting the day.
 This normally takes around 15 to 30 minutes, which I'll normally spend with a coffee and before my day properly starts.
 
-Equally, sometimes I need time to recharge. This may be over lunch, or a short 15 minute break between pairing sessions. My social batteries deplete quite quickly, so I have to keep an eye on them!
+Equally, sometimes I need time to recharge. This may be over lunch, or a short break between pairing sessions. My social batteries can deplete quite quickly, so I have to keep an eye on them!
 
 To optimise my learning, I need to do it the right way for my brain to absorb it. My [VARK](https://www.mindtools.com/pages/article/vak-learning-styles.htm) learning tool preference is as follows:
 
 1. Kinesthetic (hands-on)
 2. Visual (diagrams)
-3. Reading/Writing
+3. Reading & Writing
 4. Auditory
 
-This is of course not always possible, but I love to be able to get hands-on with stuff in order to learn it.
+This is of course not always possible, but I love to be able to get hands-on with "stuff" in order to learn it.
 
 ## Things I struggle with
 
@@ -67,8 +67,9 @@ When confident enough with a domain, I love sharing knowledge. I enjoy hosting l
 
 ## How I respond to stress
 
-When I get stressed, I go a bit inwards. This takes the form of me going quiet, and shortening my responses.
+When I get stressed, I often tend to go a bit inwards. Normally, this takes the form of me going quiet, and shortening my responses.
 
+If you notice me doing this, best thing to do would be to give me some time to de-stress and breathe, and I'll be back at it in no time!
 
 
 ## Other things to know about me
