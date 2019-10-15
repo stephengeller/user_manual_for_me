@@ -74,7 +74,7 @@ If you notice me doing this, best thing to do would be to give me some time to d
 
 ## Other things to know about me
 
-I'm from Montreal, Canada, and have lived in Surrey, Bristol, Sheffield and London since moving to the UK the age of 11. Despite having spent longer in the UK than Canada, I am still a very passionate Canuck with a fairly strong accent.
+I'm from Montreal, Canada, and have lived in Surrey, Bristol, Sheffield and London since moving to the UK at the age of 11. Despite having spent longer in the UK than Canada, I am still a very passionate Canuck with a fairly strong accent.
 
 I'll talk your ear off about video games, music technology and _some_ sports. I like to keep active, and have recently become hooked on bouldering...I'm always looking for people to join in, and try and go at least twice a week.
 
