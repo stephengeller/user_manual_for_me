@@ -78,4 +78,6 @@ I'm from Montreal, Canada, and have lived in Surrey, Bristol, Sheffield and Lond
 
 I'll talk your ear off about video games, music technology and _some_ sports. I like to keep active, and have recently become hooked on bouldering...I'm always looking for people to join in, and try and go at least twice a week.
 
+To the extent that I believe in it, I am a [Logician personality type](https://www.16personalities.com/intp-personality). This means that I live a lot in my own head, which has its benefits and weaknesses.
+
 Despite best efforts to appear extroverted, I am an introvert at heart, and can be overwhelmed or exhausted by social interaction overload.
