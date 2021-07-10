@@ -19,11 +19,11 @@ Since I've started doing intermittent fasting (help), I aim to have lunch at 12:
 
 ## The best ways to communicate with me
 
-If I'm stuck into work - most noticeably with headphones on - I always appreciate you messaging me on the common communication platform of choice (Slack, GChat) before approaching me, unless if it's an urgent request. It allows me to handle interactions at my own pace, which I appreciate.
+If I'm stuck into work - most noticeably with headphones on - I always appreciate you messaging me on the organisation's communication platform (Slack, GChat) before approaching me, unless if it's an urgent request. It allows me to handle interactions at my own pace, which I appreciate.
 
 That being said, if I've forgotten that we have a meeting or I promised to help or do something, please grab me!
 
-I like direct communication, so feel free to ask me the question you want to find out the answer to, and I'll do my best to get back to you immediately.
+I like direct communication, so feel free to directly ask me the question you want to find out the answer to and I'll do my best to get back to you immediately.
 
 ## The ways I like to receive feedback
 
@@ -50,10 +50,10 @@ This is of course not always possible, but I love to be able to get hands-on wit
 ## Things I struggle with
 
 I have real issues with my memory, and can be embarrassed when I forget things.
-So if I forget your name, a concept you absolutely nailed an explanation of to me moments before or a piece of information I was meant to remember, I'm really sorry, and I'm working on it!
+So if I forget your name, a concept you absolutely nailed an explanation of to me moments before or a piece of information I was meant to remember, I'm really sorry and I'm working on it!
 
 With that in mind, I can also struggle with my focus. Since I get worried I'll forget tasks when they pop into my head, I'll try to immediately complete them when I think of them.
-The cost of this is often switching between tasks at a lightning-pace, which can become frustrating at times, especially with pair partners. Something I do this in meetings, other times when pairing.
+The cost of this is often switching between tasks at a lightning-pace which can become frustrating at times, especially with pair partners. Something I do this in meetings, other times when pairing.
 
 If you see me doing this, please feel free and comfortable to call me out on it, even by simply saying "Stephen, you're doing the thing again." I'm not always great at seeing the impact it has on others, and will appreciate you giving me a heads up.
 
@@ -63,7 +63,9 @@ I love using analogies to explain complexity! If you'd like to explain something
 
 I love getting stuff done. I like to build quickly and get something working, then iterate. Working in an environment where this is possible - but more importantly, psychologically safe - makes me very happy!
 
-When confident enough with a domain, I love sharing knowledge. I enjoy hosting learning sessions, and have a few techniques to make learning more interactive and fun for the participants.
+When confident enough with a domain, I love sharing knowledge - I enjoy hosting learning sessions, and have a few techniques to make learning more interactive and fun for the participants. 
+
+I have also discovered that I respond well to being placed in leadership roles and have enjoyed being a technical lead in the past, as it leans into my communication and organisation skills.
 
 ## How I respond to stress
 
