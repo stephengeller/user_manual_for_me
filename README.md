@@ -13,9 +13,9 @@ I really enjoy working in environments where everyone is comfortable speaking op
 
 ## The times/hours I like to work
 
-I'm learning to be more of a morning person, but for now I aim to arrive at the office (by bike or tube) between 9:15am and 10am and leave between 5:15pm and 6pm.
+I'm learning to be more of a morning person, but for now I aim to arrive at the office between 9:15am and 10am and leave between 5:15pm and 6pm. If I'm WFH, I'm generally online by 9:30am.
 
-Since I've started doing intermittent fasting (help), I aim to have lunch at 12:30pm on the dot...but will actually have it somewhere between 12pm and 1pm.
+I'm an intermittent faster and aim to have lunch at 12:30pm on the dot, but am flexible between 12:00pm and 1pm.
 
 ## The best ways to communicate with me
 
