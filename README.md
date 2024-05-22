@@ -7,7 +7,7 @@
 
 ## 🛠️ Conditions I like to work in
 
-I work best in environments where I am surrounded by the behavior I'd like to replicate. I am a copycat and a social chameleon, and I get good work done when surrounded by people doing the same.
+I work best in environments where I am surrounded by the behaviour I'd like to replicate. I am a copycat and a social chameleon, and I get good work done when surrounded by people doing the same.
 
 I really enjoy working in environments where everyone is comfortable speaking openly and their words are heard and respected. Something that helps with this is [Occupy Hand Signals](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), which I've used before and endorse.
 
@@ -19,7 +19,7 @@ I'm an intermittent faster and aim to have lunch at 12:30pm on the dot, but am f
 
 ## 📢 The best ways to communicate with me
 
-If I'm stuck into work - most noticeably with headphones on - I always appreciate you messaging me on the organization's communication platform (Slack, GChat) before approaching me, unless it's an urgent request. It allows me to handle interactions at my own pace, which I appreciate.
+If I'm stuck into work - most noticeably with headphones on - I always appreciate you messaging me on the organisation's communication platform (Slack, GChat) before approaching me, unless it's an urgent request. It allows me to handle interactions at my own pace, which I appreciate.
 
 That being said, if I've forgotten that we have a meeting or I promised to help or do something, please grab me!
 
@@ -37,7 +37,7 @@ I need time to wake up in the morning. I've noticed that I get better work done 
 
 Equally, sometimes I need time to recharge. This may be over lunch or a short break between pairing sessions. My social batteries can deplete quite quickly, so I have to keep an eye on them!
 
-To optimize my learning, I need to do it the right way for my brain to absorb it. My [VARK](https://www.mindtools.com/pages/article/vak-learning-styles.htm) learning tool preference is as follows:
+To optimise my learning, I need to do it the right way for my brain to absorb it. My [VARK](https://www.mindtools.com/pages/article/vak-learning-styles.htm) learning tool preference is as follows:
 1. Kinesthetic (hands-on)
 2. Visual (diagrams)
 3. Reading & Writing
@@ -61,7 +61,7 @@ I love getting stuff done. I like to build quickly and get something working, th
 
 When confident enough with a domain, I love sharing knowledge. I enjoy hosting learning sessions and have a few techniques to make learning more interactive and fun for the participants.
 
-I have also discovered that I respond well to being placed in leadership roles and have enjoyed being a technical lead in the past, as it leans into my communication and organization skills.
+I have also discovered that I respond well to being placed in leadership roles and have enjoyed being a technical lead in the past, as it leans into my communication and organisation skills.
 
 ## 😰 How I respond to stress
 
@@ -86,10 +86,10 @@ Despite best efforts to appear extroverted, I am an introvert at heart and can b
 - Improving my technical skills and gaining confidence.
 
 ### 🛠️ How I approach my job
-- Ensure that the work I'm doing is clearly defined, organized, and has a clear card.
+- Ensure that the work I'm doing is clearly defined, organised, and has a clear card.
 - Seek a clear understanding of the wider motivation around my work and its role in the bigger picture of the project.
 - Identify who I need to be speaking to and working with.
-- Thrive in environments where behavior can be modeled and open communication is encouraged.
+- Thrive in environments where behaviour can be modelled and open communication is encouraged.
 
 ### 🚀 What success at work looks like for me
 - Feeling fulfilled by my work.
